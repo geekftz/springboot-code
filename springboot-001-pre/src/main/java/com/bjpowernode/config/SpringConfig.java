@@ -8,8 +8,8 @@ import org.springframework.context.annotation.*;
  * 标记位置：在类的上面
  * 此时SpringConfig这个类就相当于beans.xml
  */
-@ImportResource(value = "classpath:applicationContext.xml")
 @Configuration
+@ImportResource(value = "classpath:applicationContext.xml")
 @PropertySource(value = "classpath:config.properties")
 @ComponentScan(basePackages = "com.bjpowernode.vo")
 public class SpringConfig {

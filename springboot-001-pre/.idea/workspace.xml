@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77941069-6a17-443e-9119-921181af4bbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bjpowernode/vo/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bjpowernode/vo/Tiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bjpowernode/config/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bjpowernode/config/SpringConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bjpowernode/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bjpowernode/MyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bjpowernode/config/SpringConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bjpowernode/config/SpringConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bjpowernode/vo/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bjpowernode/vo/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/bjpowernode/MyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/bjpowernode/MyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bjpowernode/vo/Tiger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bjpowernode/vo/Tiger.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1691497475731</updated>
       <workItem from="1691497476871" duration="25000" />
-      <workItem from="1691497525766" duration="7044000" />
+      <workItem from="1691497525766" duration="7362000" />
     </task>
     <servers />
   </component>
