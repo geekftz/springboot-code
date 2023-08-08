@@ -1,15 +1,17 @@
 package com.bjpowernode.config;
 
 import com.bjpowernode.vo.Student;
-import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.*;
 
 /**
  * Configuration: 表示当前类是作为配置文件使用的，就是用来配制容器的
  * 标记位置：在类的上面
  * 此时SpringConfig这个类就相当于beans.xml
  */
+@ImportResource(value = "classpath:applicationContext.xml")
 @Configuration
+@PropertySource(value = "classpath:config.properties")
+@ComponentScan(basePackages = "com.bjpowernode.vo")
 public class SpringConfig {
     /**
      * 创建方法，方法的返回值是对象，在方法的上面加入@Bean
