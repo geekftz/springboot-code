@@ -1,8 +1,10 @@
 package com.bjpowernode;
 
+import com.bjpowernode.config.SpringConfig;
 import com.bjpowernode.vo.Student;
 import org.junit.Test;
 import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class MyTest {
@@ -16,5 +18,26 @@ public class MyTest {
         // Student student = ctx.getBean("myStudent");
         Student student = (Student) ctx.getBean("myStudent");
         System.out.println("容器中的对象：" + student);
+    }
+
+
+    /**
+     * 使用JavaConfig
+     */
+    @Test
+    public void test02() {
+        ApplicationContext ctx = new AnnotationConfigApplicationContext(SpringConfig.class);
+        Student student = (Student) ctx.getBean("createStudent");
+        System.out.println("使用JavaConfig创建的bean对象：" + student);
+
+    }
+
+
+    @Test
+    public void test03() {
+        ApplicationContext ctx = new AnnotationConfigApplicationContext(SpringConfig.class);
+        Student student = (Student) ctx.getBean("lisiStudent");
+        System.out.println("使用JavaConfig创建的bean对象：" + student);
+
     }
 }
