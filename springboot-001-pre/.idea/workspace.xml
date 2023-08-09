@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77941069-6a17-443e-9119-921181af4bbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-002-first/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-002-first/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-002-first/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-002-first/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-002-first/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-002-first/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-002-first/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-002-first/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-002-first/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-002-first/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-002-first/src/main/java/com/bjpowernode/Springboot002FirstApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-002-first/src/test/java/com/bjpowernode/Springboot002FirstApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +41,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
   <component name="ProjectId" id="2ThZryatTNDr67v9lrUCUUrR5V7" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -54,7 +65,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "File.Encoding",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "spring.configuration.checksum": "bcadda9e47e6deeceac97eacd95c8c3c",
     "vue.rearranger.settings.migration": "true"
   }
@@ -92,6 +103,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Springboot002FirstApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot-002-first" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Springboot002FirstApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot002FirstApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot-002-first" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bjpowernode.Springboot002FirstApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.MyTest.test05" />
@@ -109,7 +134,7 @@
       <updated>1691497475731</updated>
       <workItem from="1691497476871" duration="25000" />
       <workItem from="1691497525766" duration="8787000" />
-      <workItem from="1691546025529" duration="249000" />
+      <workItem from="1691546025529" duration="3496000" />
     </task>
     <servers />
   </component>
