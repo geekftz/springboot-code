@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9e2856e8-1afc-41fd-ab3f-c229fd665a9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/springboot-001-pre/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-001-pre/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-001-pre/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-001-pre/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-001-pre/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-001-pre/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-001-pre/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-001-pre/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-001-pre/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-002-first/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-002-first/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-002-first/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-002-first/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-002-first/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-002-first/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-002-first/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-002-first/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-004-three/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-001-pre/target/classes/com/bjpowernode/config/SpringConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-001-pre/target/classes/com/bjpowernode/config/SpringConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-001-pre/target/classes/com/bjpowernode/vo/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-001-pre/target/classes/com/bjpowernode/vo/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-001-pre/target/classes/com/bjpowernode/vo/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-001-pre/target/classes/com/bjpowernode/vo/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-001-pre/target/classes/com/bjpowernode/vo/Tiger.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-001-pre/target/classes/com/bjpowernode/vo/Tiger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-001-pre/target/test-classes/com/bjpowernode/MyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-001-pre/target/test-classes/com/bjpowernode/MyTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springboot-002-first/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-002-first/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-002-first/src/main/java/com/bjpowernode/Springboot002FirstApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-002-first/src/test/java/com/bjpowernode/Springboot002FirstApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-003-second/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-003-second/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,14 +31,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,6 +53,7 @@
       <updated>1691546008476</updated>
       <workItem from="1691546009190" duration="17000" />
       <workItem from="1691560460157" duration="24000" />
+      <workItem from="1691560503908" duration="578000" />
     </task>
     <servers />
   </component>

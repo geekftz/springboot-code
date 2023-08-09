@@ -15,8 +15,10 @@
     <groupId>com.bjpowernode</groupId>
     <artifactId>springboot-003-second</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
     <name>springboot-003-second</name>
     <description>springboot-003-second</description>
+
     <properties>
         <java.version>1.8</java.version>
     </properties>
