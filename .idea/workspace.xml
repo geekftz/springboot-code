@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e2856e8-1afc-41fd-ab3f-c229fd665a9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/springboot-004-three/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-005-mvc/src/main/java/com/bjpowernode/controller/HelloSpringBoot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-001-pre/target/classes/com/bjpowernode/config/SpringConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-001-pre/target/classes/com/bjpowernode/config/SpringConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-001-pre/target/classes/com/bjpowernode/vo/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-001-pre/target/classes/com/bjpowernode/vo/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-001-pre/target/classes/com/bjpowernode/vo/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-001-pre/target/classes/com/bjpowernode/vo/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-001-pre/target/classes/com/bjpowernode/vo/Tiger.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-001-pre/target/classes/com/bjpowernode/vo/Tiger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-001-pre/target/test-classes/com/bjpowernode/MyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-001-pre/target/test-classes/com/bjpowernode/MyTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-002-first/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-002-first/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-003-second/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-003-second/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
