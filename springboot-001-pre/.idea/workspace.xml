@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77941069-6a17-443e-9119-921181af4bbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-009-jsp/src/main/java/com/example/controller/JspController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-009-jsp/web/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-002-first/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-002-first/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-002-first/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-002-first/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-002-first/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-002-first/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-002-first/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-002-first/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-002-first/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-002-first/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-002-first/src/main/java/com/bjpowernode/Springboot002FirstApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-002-first/src/test/java/com/bjpowernode/Springboot002FirstApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-002-first/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-002-first/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-009-jsp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-009-jsp/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-009-jsp/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-009-jsp/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +59,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.lookFeel",
-    "spring.configuration.checksum": "bcadda9e47e6deeceac97eacd95c8c3c",
+    "spring.configuration.checksum": "104e8309cdc9e64182bf6473685c95c3",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -135,6 +132,7 @@
       <workItem from="1691497476871" duration="25000" />
       <workItem from="1691497525766" duration="8787000" />
       <workItem from="1691546025529" duration="3496000" />
+      <workItem from="1692595165628" duration="522000" />
     </task>
     <servers />
   </component>
