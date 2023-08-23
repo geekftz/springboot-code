@@ -14,7 +14,11 @@ public class WebApplicationConfig {
     public ServletRegistrationBean<MyServlet> servletRegistrationBean() {
         // ServletRegistrationBean<MyServlet> bean = new ServletRegistrationBean<MyServlet>(new MyServlet(), "/myservlet");
 
-        return new ServletRegistrationBean<MyServlet>(new MyServlet(), "/myservlet");
+        // return new ServletRegistrationBean<MyServlet>(new MyServlet(), "/myservlet");
+        ServletRegistrationBean<MyServlet> bean = new ServletRegistrationBean<MyServlet>();
+        bean.setServlet(new MyServlet());
+        bean.addUrlMappings("/login", "/test");
+        return bean;
     }
 }
 
