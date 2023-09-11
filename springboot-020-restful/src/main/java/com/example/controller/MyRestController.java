@@ -26,4 +26,9 @@ public class MyRestController {
     public String removeStudentById(@PathVariable Integer id) {
         return "remove student, id is: " + id;
     }
+
+    @PutMapping("/student/test")
+    public String test() {
+        return "execute student/test, use request method is put";
+    }
 }
