@@ -4,6 +4,7 @@ package com.example.controller;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.data.redis.core.ValueOperations;
+import org.springframework.data.redis.serializer.StringRedisSerializer;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -50,5 +51,15 @@ public class RedisController {
         String v = stringRedisTemplate.opsForValue().get(k);
 
         return "get value is " + v;
+    }
+
+    @PostMapping("/redis/addstr")
+    public String addString(String k, String v) {
+        redisTemplate.setKeySerializer(new StringRedisSerializer());
+        redisTemplate.setValueSerializer(new StringRedisSerializer());
+
+        redisTemplate.opsForValue().set(k, v);
+
+        return "define redisTemplate object's key and value, for serializer";
     }
 }
