@@ -4,6 +4,7 @@ import java.io.Serial;
 import java.io.Serializable;
 
 public class Student implements Serializable {
+
     @Serial
     private static final long serialVersionUID = 4489945218531276273L;
     private Integer id;
@@ -32,5 +33,14 @@ public class Student implements Serializable {
 
     public void setAge(Integer age) {
         this.age = age;
+    }
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", age=" + age +
+                '}';
     }
 }
