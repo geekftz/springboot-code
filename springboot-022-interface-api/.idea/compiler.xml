@@ -10,13 +10,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-022-interface-api" />
+        <module name="springboot-024-consumber" />
         <module name="springboot-023-service-provider" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="springboot-024-consumer" target="8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="springboot-023-service-provider" options="-parameters" />
+      <module name="springboot-024-consumber" options="-parameters" />
+      <module name="springboot-024-consumer" options="-parameters" />
     </option>
   </component>
 </project>

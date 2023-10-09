@@ -22,6 +22,6 @@ public class StudentServiceImpl implements StudentService {
             student.setAge(12);
         }
 
-        return null;
+        return student;
     }
 }
